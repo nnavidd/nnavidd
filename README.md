@@ -1,4 +1,4 @@
-### Hi there 👋
+### - 🌱 I’m currently learning at 42Heilbronn 
 <a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/darkblue/nnabaeei?UM6P=off" alt="nnabaeei's 42 stats" /></a>
 <!--
 **nnavidd/nnavidd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
