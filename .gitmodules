@@ -4,3 +4,6 @@
 [submodule "Printf"]
 	path = Printf
 	url = https://github.com/nnavidd/Printf.git
+[submodule "So_long"]
+	path = So_long
+	url = https://github.com/nnavidd/so_long.git
