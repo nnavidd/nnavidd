@@ -10,7 +10,7 @@ My passion for technology began in childhood and has grown into a lifelong journ
 ## 🚀 About Me
 
 - 👨‍💼 Possess approximately 2 decades of **project management** experience within the Information and Communication Technology industry
-- 🔭 Completed the curriculum and commenced my master's program @ [42Heilbronn](https://42heilbronn.de)
+- 🔭 Completed the core program and commenced my specialization program @ [42Heilbronn](https://42heilbronn.de)
 - 🌱 Learning by doing — from bits and bytes to APIs and Docker containers
 - 🧠 Passionate about clean code, performance, and system design
 - 🌍 Always exploring new technologies and open-source tools
