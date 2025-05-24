@@ -55,7 +55,7 @@ Welcome to my GitHub! IT is a passion rooted in my childhood. This enthusiasm ha
 
 ## 📈 GitHub Stats
 
-![Navid's GitHub stats](https://github-readme-stats.vercel.app/api?username=nnabaeei&show_icons=true&theme=dark&hide=prs,issues)
+![Navid's GitHub stats](https://github-readme-stats.vercel.app/api?username=nnavidd&show_icons=true&theme=dark&hide=prs,issues)
 
 ---
 
