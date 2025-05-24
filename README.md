@@ -3,7 +3,7 @@
 ### 💻 Passionate about software design, implementation, and development  & 42Heilbronn Cadet
 
 Welcome to my GitHub!
-My passion for technology began in childhood and has grown into a lifelong journey of continuous learning and development. I'm currently immersed in the 42 School curriculum, where I’m exploring everything from low-level programming and system architecture to full-stack web development. Along the way, I’ve built projects ranging from custom C libraries to real-time multiplayer applications.
+My passion for technology began in childhood and has grown into a lifelong journey of continuous learning and development. I'm currently immersed in the [42Heilbronn](https://42heilbronn.de) curriculum, where I've explored everything from low-level programming and system architecture to full-stack web development. Along the way, I’ve built projects ranging from custom C libraries to real-time multiplayer applications.
 
 ---
 
